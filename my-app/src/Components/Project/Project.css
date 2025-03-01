@@ -1,0 +1,37 @@
+.project{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    box-shadow: 0 0 10px black;
+    padding:10px;
+    border-radius: 10px;
+}
+.upload-area{
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    padding:20px;
+}
+.upload-area input{
+    width: 100%;
+    background:green;
+    color:white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.project form button{
+    width: 100%;
+    padding:10px;
+    border-radius: 10px;
+    border: 0;
+    background:blue;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.4rem;
+}
+.form-area{
+    display: flex;
+    align-items:center;
+    gap: 10px;
+}
